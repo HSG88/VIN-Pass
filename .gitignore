@@ -1,0 +1,10 @@
+package-lock.json
+node_modules
+build/*.ptau
+build/*.zkey
+build/*.r1cs
+build/*.wasm
+build/*.json
+build/*.cpp
+build/*.dat
+build/*.sym
