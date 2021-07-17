@@ -39,4 +39,4 @@ template VerifiableEncrypt(N) {
 
 }
 
-component main = VerifiableEncrypt(6);
+component main = VerifiableEncrypt(10);
